@@ -146,4 +146,3 @@ ggplot(poudre_points)+
 
 # why are there 4 features in our Poudre Canyon Highway variable instead of 1?
 # Because it is an 'sf' or simple features and represents spatial features with a geometry column
-
